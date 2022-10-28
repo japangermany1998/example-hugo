@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://github.com/japangermany1998/example-hugo"
 title = "System Design"
 theme = "hugo-geekdoc"
 
